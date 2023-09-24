@@ -1,5 +1,6 @@
-![internetlogo2](https://github.com/mizmo-cheese/internet/assets/79184880/0ebde928-66e7-4fe1-a99d-2694d21c02ee)
+![githubINTERNET](https://github.com/mizmo-cheese/internet/assets/79184880/31ab3ec3-bffe-4499-8b99-4e416d42a1fe)
 # internet
+
 
 Browser for CatCore - Internet!
 
