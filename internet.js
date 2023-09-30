@@ -3,7 +3,7 @@ var internet = __.Browser().link("https://www.google.com/search?igu=1").width("1
 var InternetWindow = new __.Window({
   "id":"net",
   "snapbox": true,
-  "closable":true,
+  "closable": true,
   "height": "calc(75% - 31px)"
 });
 
